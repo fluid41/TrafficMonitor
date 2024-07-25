@@ -1,4 +1,4 @@
-name: Release CI1
+name: Release CI
 on: push
 jobs:
 
